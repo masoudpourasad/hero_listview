@@ -1,0 +1,1 @@
+ /Users/masoudpourasad/development/Flutter\ project/Flutter\ pack/hero_listview/.dart_tool/flutter_build/2a760e9ad98dcb5003c9ee755bd5c148/native_assets.yaml: 
